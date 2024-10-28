@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "AalzehlaCapacitorSmsRetriever.podspec"
+    "CapacitorSmsRetriever.podspec"
   ],
   "author": "Samer Draidi",
   "license": "MIT",
