@@ -62,7 +62,4 @@ dependencies {
 
     // For Google Location Services
     implementation 'com.google.android.gms:play-services-location:18.0.0'
-
-    // For Google Play Games
-    implementation 'com.google.android.gms:play-services-games:21.0.0'
 }
